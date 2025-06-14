@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["👑 RG","✨I'm smart✨","join our server❤️","😁"];
+const statusMessages = ["👑 Best MiddleMans","✨I'm smart✨","Thank you for using our MM services ❤️","😁"];
 
 
 let currentIndex = 0;
